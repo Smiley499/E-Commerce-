@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+  position: relative;
+  margin-top: -240px;
+margin-left: 180px;
+padding: 30px;
+}
+#count{
+  padding:5px;
+  margin: 20px 10px;
+}
+p{
+  margin: -8px 20px;
+  color: rgb(195, 227, 217);
+  font-weight: 600;
+  font-family: cursive;
+  /* color: rgb(213, 232, 232); */
+}
+#hello{
+  margin: 20px 20px 0px 30px;
+    color: rgb(208, 208, 185);
+}
+#button{
+  color: rgb(198, 176, 218);
+  border-radius: 10px;
+  border: solid rgb(201, 201, 188);
+  margin: 10px 10px 10px 10px;
+}
+#button:active{
+  border: solid rgb(201, 222, 198); 
+  color: rgb(198, 176, 208);
+}
+span{
+  margin-left: 10px;
+}
